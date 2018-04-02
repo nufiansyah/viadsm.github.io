@@ -18,11 +18,11 @@
 
   // types of ads that can be loaded
   var ads = {
-    doubleclick: 'http://www.vidcpm.com/watch.xml?key=13dfa6312992552d90fa8df33e2d2c60&custom=%7B%27width%27%3A%271024%27%2C%27height%27%3A%27768%27%7D&cb={timestamp}&vastref=almanac.com',
-    vpaid: 'https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=is&c=23&pl=VAST&pli=14432293&PluID=0&pos=8834&ord=%5Btimestamp%5D&cim=1'
+    doubleclick: 'https://www.vidcpm.com/watch.xml?key=13dfa6312992552d90fa8df33e2d2c60&custom=%7B%27width%27%3A%271024%27%2C%27height%27%3A%27768%27%7D&cb={timestamp}&vastref=almanac.com',
+    //vpaid: 'https://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=is&c=23&pl=VAST&pli=14432293&PluID=0&pos=8834&ord=%5Btimestamp%5D&cim=1'
   };
 
-  var vmapAd = '<vmap:VMAP xmlns:vmap="https://unreel.me/player/main" version="1.0"><vmap:AdBreak timeOffset="00:00:02.000" breakType="linear"><vmap:AdSource id="preroll-1"><vmap:AdTagURI templateType="vast3"><![CDATA[{{AD_URL}}]]></vmap:AdTagURI></vmap:AdSource></vmap:AdBreak></vmap:VMAP>';
+  //var vmapAd = '<vmap:VMAP xmlns:vmap="https://unreel.me/player/main" version="1.0"><vmap:AdBreak timeOffset="00:00:02.000" breakType="linear"><vmap:AdSource id="preroll-1"><vmap:AdTagURI templateType="vast3"><![CDATA[{{AD_URL}}]]></vmap:AdTagURI></vmap:AdSource></vmap:AdBreak></vmap:VMAP>';
 
   // the video playlist
   var videos = [
