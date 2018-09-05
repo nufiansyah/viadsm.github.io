@@ -31,7 +31,7 @@
     'https://mtc.cdn.vine.co/r/videos/84C4E2C3DD1357938356432023552_574449b2afd.25.1.F040A49F-C8B2-4EC1-8F9F-6525F1365103.mp4?versionId=eweULi8mnxy8zDTuJ4FfkWl4ZeVpOm7r'
     ];
   var videoIndex = 0;
-  var activeAd = ads.doubleclick;
+  var activeAd = ads.vpaid;
 
   // api
   window.loadNext = loadNext;
