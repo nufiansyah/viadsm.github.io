@@ -1,6 +1,6 @@
 # videojs-demo
 
-Hosted at <https://sivitas.github.io/videojs-demo/>
+Hosted at <http://xstafaband.com/>
 
 Autoplay and muted video demo with preroll ad using Google IMA SDK
 Muted so it support mobile autoplay
